@@ -1,0 +1,39 @@
+body {
+  background-color:WhiteSmoke;
+}
+
+h1 {
+  color: SteelBlue;
+  text-align:left;
+  font-size:20px;
+}
+h2 {
+  color: SteelBlue;
+  text-align:center;
+  font-size:20px;
+}
+.appear {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+.pic_position {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+.picposition {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+.table {
+  border-collapse: collapse;
+}
+
+.table, th, td {
+  border: 1px solid black;
+}
